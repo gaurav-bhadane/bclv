@@ -43,8 +43,8 @@ CLOUD_API_SECRET="<YOUR_CLOUD_API_SECRET>"
    First, clone the repository, navigate into the project directory, and set up a virtual environment:
 
       ```bash
-      git clone https://github.com/gaurav-bhadane/1.-Better-Customer-Lifetime-Value-CLV-Prediction.git
-      cd 1.-Better-Customer-Lifetime-Value-CLV-Prediction
+      https://github.com/gaurav-bhadane/bclv.git
+      cd bclv
       ```
 
 2. ** Install virtualenv if you haven't already : **
